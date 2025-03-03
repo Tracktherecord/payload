@@ -221,5 +221,7 @@ actuator
 actuator/health  
 actuator/env  
 actuator/info
+templates/processed/syslog-tcp-forward.conf
+
 
 
